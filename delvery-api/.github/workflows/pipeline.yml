@@ -1,5 +1,4 @@
-name: Node Product API Pipeline
-
+name: Delivery API Pipeline
 on:
   push:
     branches:
